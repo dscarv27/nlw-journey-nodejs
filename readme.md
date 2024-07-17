@@ -24,13 +24,11 @@
  <a href="#-license">License</a>
 </p>
 
-
 ## 💻 About
 
 Esta é a API da aplicação de nome **Plann.er**, a qual consiste em um sistema de planejamento de viagens, na qual você pode montar planos de viagens com amigos, registrar atividades, adicionar links úteis sobre a viagem e outras funcionalidades.
 
 Essa aplicação foi desenvolvida durante o evento **NLW Journey** da [Rocketseat](https://www.rocketseat.com.br/) utilizando principalmente tecnologias como `Node`, `TypeScript`, `Fastify` e `Prisma`.
-
 
 ## ⛕ Routes
 
@@ -104,8 +102,6 @@ Altera uma viagem.
   "tripId": "f944daf7-e7e6-47a2-b050-1556d6a9e963"
 }
 ```
-
-
 
 #### GET `/trips/:tripId/confirm`
 
@@ -314,7 +310,7 @@ Passo a passo para clonar e executar a aplicação na sua máquina:
 $ git clone git@github.com:dscarv27/nlw-journey-nodejs.git
 
 # Acesse a pasta do projeto no terminal
-$ cd nlw-journey-node
+$ cd backend
 
 # Instale as dependências
 $ npm install
@@ -331,8 +327,10 @@ $ npm run dev
 $ npx prisma studio
 
 # A aplicação inciará na porta que você configurou no arquivo '.env' 
-```
 
+# Para conectar com o frontend (opcional), acessar e seguir o readme em:
+[frontend-react](https://github.com/dscarv27/nlw-journey-react)
+```
 
 ## 🛠 Technologies
 
@@ -346,7 +344,6 @@ As principais ferramentas foram usadas na construção do projeto:
 - **[DayJS](https://day.js.org/)**
 
 > Para mais detalhes das dependências gerais da aplicação veja o arquivo [package.json](./package.json)
-
 
 ## 📝 License
 
