@@ -307,7 +307,7 @@ Passo a passo para clonar e executar a aplicação na sua máquina:
 
 ```bash
 # Clone este repositório
-$ git clone git@github.com:dscarv27/nlw-journey-nodejs.git
+$ https://github.com/dscarv27/nlw-journey-nodejs.git
 
 # Acesse a pasta do projeto no terminal
 $ cd backend
