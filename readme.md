@@ -8,24 +8,6 @@
   NLW Journey (Node)
 </h1>
 
-<p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/dscarv27/nlw-journey-node">
-
-  <img alt="GitHub Top Language" src="https://img.shields.io/github/languages/top/dscarv27/nlw-journey-node" />
-
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/dscarv27/nlw-journey-node">
-  
-  <a href="https://github.com/dscarv27/nlw-journey-node/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/dscarv27/nlw-journey-node">
-  </a>
-    
-   <img alt="License" src="https://img.shields.io/badge/license-MIT-blue">
-
-   <a href="https://github.com/dscarv27/nlw-journey-node/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/dscarv27/nlw-journey-node?style=social">
-  </a>
-</p>
-
 <p>
   <img src=".github/cover.png" alt="Capa do projeto" />
 </p>
@@ -371,5 +353,5 @@ As principais ferramentas foram usadas na construção do projeto:
 Este projeto está sob a licença MIT. Consulte o arquivo [LICENSE](./LICENSE) para mais informações
 
 <p align="center">
-  Feito com 💜 por Pablo Alan 👋🏽 <a href="https://www.linkedin.com/in/dscarv27/" target="_blank">Entre em contato!</a>  
+  Feito com 💜 por Daniel Carvalho 👋🏽 <a href="https://www.linkedin.com/in/dscarv27/" target="_blank">Entre em contato!</a>  
 </p>
